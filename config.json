@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-api-testing",
+      "title": "Testing FastAPI Endpoints",
+      "description": "Write pytest tests for FastAPI endpoints, JSON responses, and HTTP 404 errors using TestClient.",
+      "path": "assignments/fastapi-api-testing",
+      "dueDate": "2026-10-29",
+      "attachments": [
+        {
+          "name": "Starter API",
+          "file": "app.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
